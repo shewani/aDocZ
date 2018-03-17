@@ -1,4 +1,4 @@
 # aDocZ
-An interactive bot deployed on zulip which 
-1.provides personalized healthcare by taking into account the user's current and past medical history.
-2.provides suggestions to the user as to what problem/(s) he/she might have when the images are uploaded to the bot.Also provides a severity level of the problem to the user.
+An interactive bot deployed on zulip which best assists the user, providing personalised healthcare by predicting the diseases from given symptoms, training data including features from user's current and past medical records, developed using Decision Tree Classifier and moreover predicts the severity level using k-nearest neighbours and thus secures a doctor's appointment in case of emergency. It also allows predicts diseases through image detection when the user uploads a file to the application.This uses Artificial Neural Network, developed in tensorflow.The datasets were developed manually and the images were obtained from google images.
+
+
